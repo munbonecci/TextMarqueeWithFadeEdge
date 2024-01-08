@@ -1,7 +1,5 @@
 package com.mun.bonecci.textmarqueewithfadeedge.utils
 
-import androidx.compose.ui.tooling.preview.Preview
-
 object Constants {
     const val EXAMPLE_ONE = "example_one"
     const val EXAMPLE_TWO = "example_two"
