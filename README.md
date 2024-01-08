@@ -1,4 +1,4 @@
-# TextMarqueeWithFadeEdge
+<h1 align="center">TextMarqueeWithFadeEdge</h1>
 
 <p align="center">
 This app was created to learn more about Android compose using TextMarqueeWithFadeEdge Compose component
